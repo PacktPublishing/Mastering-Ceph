@@ -1,4 +1,4 @@
-# Building Modern Web Applications Using Angular
+# Mastering Ceph
 This is the code repository for [Mastering Ceph](https://www.packtpub.com/virtualization-and-cloud/mastering-ceph?utm_source=github&utm_medium=repository&utm_content=9781785888786), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
 
 ## About the Book
