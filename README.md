@@ -36,7 +36,4 @@ The code will look like the following:
 * [Learning Ceph - Second Edition]( https://www.packtpub.com/virtualization-and-cloud/learning-ceph-second-edition?utm_source=github&utm_medium=repository&utm_content=9781787127913 )
 
 
-### Suggestions and Feedback
-[Click here]( https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform ) if you have any feedback or suggestions.
-
 
